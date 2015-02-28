@@ -3,7 +3,7 @@
 int main(void)
 {
 	printf("Git Practice\n");
-	printf("A statement ");
+	printf("A statement\n");
 
 	return 0;
 }
